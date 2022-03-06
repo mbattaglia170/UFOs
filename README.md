@@ -7,6 +7,7 @@ The purpose of this project was to create a webpage of UFO sightings and key cha
 #Results
 
 To complete a search, please type in the filters as shown in the link below.
+https://github.com/mbattaglia170/UFOs/blob/main/UFOs/UFO_search.png 
 
 #Summary
 
