@@ -6,7 +6,7 @@ The purpose of this project was to create a webpage of UFO sightings and key cha
 
 #Results
 
-Before completing a search, please reference the link below
+Before completing a search, please reference the link:
 https://github.com/mbattaglia170/UFOs/blob/main/UFOs/UFO_search.png 
 
 While performing a search, you can fill out any combination of the filters. For example, if you were interested in UFOs on the 3rd of March, please type in the date as shown in the filler. After typing in '3/03/2022', you can either click out of the filter or hit enter to complete the search.
